@@ -1,4 +1,4 @@
 * digabi/exam-engine inside a container
 
-A prebuilt container can be found from docker.io/knlje/exam-engine.
-I use this with Emacs and docker-tramp to create fancypants Abitti exams.
+A prebuilt container can be found from https://hub.docker.com/r/knlje/exam-engine.
+I use this with Emacs and docker-tramp to create and test fancy Abitti exams.
